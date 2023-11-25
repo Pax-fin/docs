@@ -1,0 +1,15 @@
+site_name: Pax Technical Documentation
+nav:
+  - Home: index.md
+  - 'How To':
+      - 'Add a new page': 'how-to/add-a-new-documentation-page.md'
+      - 'Release to production': 'how-to/release-to-production.md'
+  - Reference:
+      - 'On the Render setup': 'reference/on-the-render-setup.md'
+      - 'On the Terraform cloud setup': 'reference/on-the-terraform-cloud-setup.md'
+  - Explain:
+      - 'The documentation structure': 'explain/the-documentation-structure.md'
+      - 'The Terraform cloud SDLC': 'explain/the-terraform-cloud-sdlc.md'
+      - 'The different Render blueprints': 'explain/the-different-render-blueprints.md'
+
+theme: material
