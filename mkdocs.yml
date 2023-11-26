@@ -1,4 +1,8 @@
 site_name: Pax Technical Documentation
+site_description: 'Pax Financial knowledge base'
+docs_dir: docs/
+repo_name: Pax-fin/docs
+repo_url: https://github.com/Pax-fin/docs
 nav:
   - Home: index.md
   - 'How To':
