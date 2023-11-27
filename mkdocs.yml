@@ -8,6 +8,7 @@ nav:
   - 'How To':
       - 'Add a new page': 'how-to/add-a-new-documentation-page.md'
       - 'Release to production': 'how-to/release-to-production.md'
+      - 'Add a new secret group': 'how-to/add-new-secret-groups.md'
   - Reference:
       - 'On the Render setup': 'reference/on-the-render-setup.md'
       - 'On the Terraform cloud setup': 'reference/on-the-terraform-cloud-setup.md'
